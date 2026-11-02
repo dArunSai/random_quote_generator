@@ -27,7 +27,7 @@ A clean, minimalist, and interactive beginner-friendly web application that fetc
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/random_quote_generator
+   git clone https://github.com/dArunSai/random_quote_generator
    ```
 2. Navigate directly into the project directory:
    ```bash
